@@ -12,8 +12,6 @@ public static main(String args[]){
 1. Abel
 2. Sabater
 3. Muñoz
-`
-`
 - Muñoz
 - Sabater
 - Abel
