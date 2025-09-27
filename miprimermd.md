@@ -3,27 +3,28 @@
 
 Mi nombre es **Abel Sabater Muñoz** y soy  `una persona`
 
-```Java
+```java
 public static main(String args[]){
     System.out.println("Hola mundo")
 }
 ```
 `
-1. Muñoz
+1. Abel
 2. Sabater
-3. Abel
+3. Muñoz
 `
-
 `
 - Muñoz
 - Sabater
 - Abel
 `
+
 [enlace a aules](https://aules.edu.gva.es/fp/my/)
 
 [enlace a readme](./README.md)
 
-![alt](https://bit.ly/4nRne9O)
+![alt](./descarga.jpg)
 
-| Nombre  | Edad | Ciudad     |
-| Abel     | 19  | Castellón    |
+| Nombre | Edad | Ciudad   |
+|--------|-----|---------|
+| Abel   | 19  | Castellón |
