@@ -8,7 +8,7 @@ public static main(String args[]){
     System.out.println("Hola mundo")
 }
 ```
-`
+
 1. Abel
 2. Sabater
 3. Muñoz
@@ -17,7 +17,7 @@ public static main(String args[]){
 - Muñoz
 - Sabater
 - Abel
-`
+
 
 [enlace a aules](https://aules.edu.gva.es/fp/my/)
 
